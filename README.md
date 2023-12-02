@@ -31,4 +31,4 @@ Backend:
 Ниже мы будем публиковать функции и возможности, которые уже реализованы в проекте WIK.SU
 
 ## ©️ Авторы
-[![](https://github.com/ckatala.png?size=0)](https://github.com/ckatala)
+[![](https://github.com/ckatala.png?size=50)](https://github.com/ckatala)
